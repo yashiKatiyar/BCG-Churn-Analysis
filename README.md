@@ -1,4 +1,4 @@
-# BCG Data Science Simulation
+
 # BCG Data Science Job Simulation
 
 This repository contains the work completed as part of the **Forage BCG Data Science Job Simulation**. In this simulation, I worked on a **customer churn analysis** project where the objective was to predict which customers are likely to leave a company using historical customer data.
