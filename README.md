@@ -39,9 +39,6 @@ The simulation allowed me to dive into the real-world application of data scienc
 - Implement additional models (e.g., **logistic regression**, **XGBoost**) and compare performance.
 - Experiment with feature engineering to improve model accuracy further.
 
----
-
-Feel free to explore the code, and don’t hesitate to reach out with any questions or feedback!
 
 
  
