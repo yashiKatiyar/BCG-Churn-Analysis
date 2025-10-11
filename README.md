@@ -38,7 +38,7 @@ The simulation allowed me to dive into the real-world application of data scienc
 ## Future Improvements
 - Implement additional models (e.g., **logistic regression**, **XGBoost**) and compare performance.
 - Experiment with feature engineering to improve model accuracy further.
-
-
+## Task 1 
+- This was to write a mail to client on how you have understood the problem , establishing requirements and how you plan to solve their issue. If you want to have , it will be provided on request drop a message.
 
  
